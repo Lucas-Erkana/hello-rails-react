@@ -1,4 +1,5 @@
 greetings = [
+  "Whats up!",
   "Hello World!",
   "Welcome Universe!",
   "Greetings!",
